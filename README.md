@@ -1,2 +1,3 @@
 # CursoGit
-Curso GitHub ministrado pelo professor Matheus Battisti
+
+Curso Git 2023
